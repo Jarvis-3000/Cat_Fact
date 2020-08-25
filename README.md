@@ -8,4 +8,3 @@ In this i have used two apis
 So i merged both the apis and make this project.
 Hope you people will learn from this.
 
-___Just learning Team work___
