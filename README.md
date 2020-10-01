@@ -1,4 +1,4 @@
-# Cat-Fact
+# Cat_Fact
 This is a cat facts project. Click on the button and get a new amazing fact every time.
 
 In this i have used two apis
